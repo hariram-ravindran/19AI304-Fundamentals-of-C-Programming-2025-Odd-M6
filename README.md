@@ -354,7 +354,8 @@ int main() {
 }
 ```
 # Output:
-![alt text](image-3.png)
+![WhatsApp Image 2025-12-01 at 17 56 12_7a4024e9](https://github.com/user-attachments/assets/adeb0550-5365-4721-a9d4-1905eedcc8c5)
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
